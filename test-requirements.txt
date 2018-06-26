@@ -8,5 +8,5 @@ pytest-cov==2.5.1
 flake8
 coveralls
 codeclimate-test-reporter
-coverage>=4.0,<4.4
+coverage==4.5.1
 prometheus_client
