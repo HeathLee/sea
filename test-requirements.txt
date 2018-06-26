@@ -2,7 +2,7 @@
 peeweext==0.7.6
 cachext==0.2.2
 redis==2.10.6
-celery
+celery==4.2.0
 pytest==3.6.2
 pytest-cov==2.5.1
 flake8
