@@ -1,6 +1,6 @@
 -r requirements.txt
 peeweext==0.7.6
-cachext
+cachext==0.2.2
 redis
 celery
 pytest==3.6.2
