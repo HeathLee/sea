@@ -1,7 +1,7 @@
 -r requirements.txt
 peeweext==0.7.6
 cachext==0.2.2
-redis
+redis==2.10.6
 celery
 pytest==3.6.2
 pytest-cov==2.5.1
