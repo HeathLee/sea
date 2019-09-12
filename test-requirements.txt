@@ -1,5 +1,5 @@
 -r requirements.txt
-peeweext
+peeweext==1.1.1
 cachext
 redis
 celery
