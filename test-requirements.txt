@@ -6,7 +6,7 @@ celery
 pytest
 pytest-cov
 flake8
-coveralls
+coveralls==1.10.0
 codeclimate-test-reporter
 coverage
 prometheus_client
