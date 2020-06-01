@@ -9,4 +9,4 @@ flake8
 coveralls
 codeclimate-test-reporter
 coverage>=4.0,<5.1
-prometheus_client
+prometheus_client==0.8.0
