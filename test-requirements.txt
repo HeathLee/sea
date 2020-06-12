@@ -4,7 +4,7 @@ cachext
 redis
 celery
 pytest
-pytest-cov
+pytest-cov==2.10.0
 flake8
 coveralls
 codeclimate-test-reporter
