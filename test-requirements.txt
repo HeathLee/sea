@@ -2,7 +2,7 @@
 peeweext
 cachext
 redis
-celery
+celery==5.0.2
 pytest
 pytest-cov
 flake8
